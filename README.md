@@ -12,7 +12,7 @@
 
 
 ## Reference:
-[^1]: Eric Ghysels, Pedro Santa-Clara, Rossen Valkanov. (2004)  The MIDAS touch: Mixed data sampling regression models
-[^2]: Eric Ghysels, Arthur Sinko, Rossen Valkanov. (2007) MIDAS regressions: Further results and new directions
+[^1]: Eric Ghysels, Pedro Santa-Clara, Rossen Valkanov.  The MIDAS touch: Mixed data sampling regression models.(2004) 
+[^2]: Eric Ghysels, Arthur Sinko, Rossen Valkanov. MIDAS regressions: Further results and new directions.(2007)
 [^3]: Babii, A., Ghysels, E., & Striaukas, J. Machine learning time series regressions with an application to nowcasting, (2022) *Journal of Business & Economic Statistics*, Volume 40, Issue 3, 1094-1106. https://doi.org/10.1080/07350015.2021.1899933. 
 [^4]: Babii, A., Ghysels, E., & Striaukas, J. High-dimensional Granger causality tests with an application to VIX and news, (2022) *Journal of Financial Econometrics*, Forthcoming. 
