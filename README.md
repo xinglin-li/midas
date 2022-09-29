@@ -8,4 +8,4 @@
 
 
 ## Reference:
-[1] Eric Ghysels, Arthur Sinko, Rossen Valkanov. *MIDAS regressions: Further results and new directions*<br />
+[1]: Eric Ghysels, Arthur Sinko, Rossen Valkanov. *MIDAS regressions: Further results and new directions*<br />
