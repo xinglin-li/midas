@@ -651,35 +651,3 @@ def mixed_freq_data_single(data_refdate, data_x, data_xdate, x_lag, horizon, est
         "min_date": min_date,
         "max_date": max_date,
     }
-
-#if __name__ == "__main__":
-#    with open("data_files/input_data_refdate.txt") as file_data_refdate:
-#        data_refdate = [line.rstrip() for line in file_data_refdate]
-#    with open("data_files/input_data_x.txt") as file_data_x:
-#        data_x = [line.rstrip() for line in file_data_x]
-#    with open("data_files/input_data_xdate.txt") as file_data_xdate:
-#        data_xdate = [line.rstrip() for line in file_data_xdate]
-#    x_lag = 12
-#    horizon = 1
-#    est_start = ["1990-01-01"]
-#    est_end = ["2002-03-01"]
-#    result = mixed_freq_data_single(data_refdate, data_x, data_xdate, x_lag, horizon, est_start, #est_end, disp_flag = True)
-#    print(result)
-
-#if __name__ == "__main__":
-#    with open("input_data_x.txt") as file_data_x:
-#        data_x = [line.rstrip() for line in file_data_x]
-#    with open("input_data_xdate.txt") as file_data_xdate:
-#        data_xdate = [line.rstrip() for line in file_data_xdate]
-#    with open("input_data_y.txt") as file_data_x:
-#        data_y = [line.rstrip() for line in file_data_x]
-#    with open("input_data_ydate.txt") as file_data_xdate:
-#        data_ydate = [line.rstrip() for line in file_data_xdate]
-#    x_lag = 12
-#    y_lag = 1
-#    horizon = 1
-#    est_start = ["1990-01-01"]
-#    est_end = ["2002-03-01"]
-#    result = mixed_freq_data(data_y, data_ydate, data_x, data_xdate, x_lag, y_lag, horizon, #est_start, est_end, disp_flag = True)
-    
- #   print(result)
